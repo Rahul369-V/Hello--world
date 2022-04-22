@@ -1,3 +1,3 @@
 # Hello--world
-HI ,IAM RAHUL FROM CHENNAI,.
+HI ,I am Rahul from chennai,.
 I'm really fan of computer science....
